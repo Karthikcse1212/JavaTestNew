@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="43545" started-at="2019-01-17T12:03:42Z" finished-at="2019-01-17T12:04:25Z">
+  <suite name="Suite" duration-ms="33027" started-at="2019-01-17T12:28:47Z" finished-at="2019-01-17T12:29:20Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="43545" started-at="2019-01-17T12:03:42Z" finished-at="2019-01-17T12:04:25Z">
+    <test name="Test" duration-ms="33027" started-at="2019-01-17T12:28:47Z" finished-at="2019-01-17T12:29:20Z">
       <class name="login.logintest">
-        <test-method status="PASS" signature="loginsetup()[pri:0, instance:login.logintest@d8355a8]" name="loginsetup" is-config="true" duration-ms="5924" started-at="2019-01-17T12:03:42Z" finished-at="2019-01-17T12:03:48Z">
+        <test-method status="PASS" signature="loginsetup()[pri:0, instance:login.logintest@d8355a8]" name="loginsetup" is-config="true" duration-ms="4965" started-at="2019-01-17T12:28:47Z" finished-at="2019-01-17T12:28:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginsetup -->
-        <test-method status="PASS" signature="test()[pri:0, instance:login.logintest@d8355a8]" name="test" duration-ms="36712" started-at="2019-01-17T12:03:48Z" finished-at="2019-01-17T12:04:24Z">
+        <test-method status="PASS" signature="test()[pri:0, instance:login.logintest@d8355a8]" name="test" duration-ms="27183" started-at="2019-01-17T12:28:52Z" finished-at="2019-01-17T12:29:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method status="PASS" signature="aftertest()[pri:0, instance:login.logintest@d8355a8]" name="aftertest" is-config="true" duration-ms="892" started-at="2019-01-17T12:04:24Z" finished-at="2019-01-17T12:04:25Z">
+        <test-method status="PASS" signature="aftertest()[pri:0, instance:login.logintest@d8355a8]" name="aftertest" is-config="true" duration-ms="866" started-at="2019-01-17T12:29:19Z" finished-at="2019-01-17T12:29:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- aftertest -->
       </class> <!-- login.logintest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
