@@ -12,7 +12,7 @@ public class failedtest {
     public void test_UsingHardAssertion() {
 
         Assert.assertTrue(true == true);
-        Assert.assertEquals("HardAssert", "HardAssertion");
+        Assert.assertEquals("HardAssertion", "HardAssertion");
         Assert.assertEquals(className, "HardAssertion");
         System.out.println("Successfully passed!");
     }
